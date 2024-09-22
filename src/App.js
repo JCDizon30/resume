@@ -34,7 +34,7 @@ function Header() {
         <p className="name">JOHN CARLO DIZON</p>
         <p className="role">UI/UX DESIGNER | SOFTWARE ENGINEER | VIDEO EDITOR</p>
         <p className="profile-title">PROFILE</p>
-        <p className="profile-detail">Hello, I'm John Carlo Dizon 2nd year college student, currently studying  bachelor of science in information technology. Offering my services for FREE in Web Designing and Video Editing, to help your business improve your websites and videos. </p>
+        <p className="profile-detail">Hello, I'm John Carlo Dizon Software Engineer and and Video Editor, currently looking for Connections in Web Development and Software Engineering Industry for more knowledge and Experience. Offering my services in Web Designing and Video Editing, to help your business improve your websites and videos. </p>
       </div>     
     </div>
   )
